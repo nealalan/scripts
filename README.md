@@ -1,3 +1,5 @@
+<html>
+<pre>
 random scripts and stuff
 
 created repo 20171205
@@ -13,3 +15,8 @@ added files
 
  pulled down to 17MBP 20171205
   using git remote add origin git@github.com:nealalan/test.git
+
+
+
+</pre>
+</html>
