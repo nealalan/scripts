@@ -1,7 +1,5 @@
 <html>
-<pre>
-random scripts and stuff
-
+<H2>random scripts and stuff</H2>
 created repo 20171205
 added files
   README.md
