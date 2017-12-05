@@ -10,9 +10,13 @@ added files
   top.json
 </pre>
 <pre>pushed from Kali C virtual box 20171205
-</pre><br>
+</pre>
 <pre>pulled down to 17MBP 20171205
-  using git remote add origin git@github.com:nealalan/test.git
-</pre><br>
+  git remote add origin git@github.com:nealalan/test.git
+pushed back up using
+  git add README.md
+  git commit -m "update README.md"
+  git push origin master
+</pre>
 
 </html>
